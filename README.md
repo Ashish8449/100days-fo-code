@@ -1,1 +1,1 @@
-# 100days-fo-code
+# 100days-of-code
